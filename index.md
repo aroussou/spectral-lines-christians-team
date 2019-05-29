@@ -13,9 +13,9 @@ Another absolute link
 and a [relative one](Forssen_lecture1.ipynb)
 
 Table
----
+
 Header
 ---
 col 1 | col 2
 row 2 | row 2
----
+row 3 | row 3
