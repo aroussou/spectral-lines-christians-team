@@ -1,6 +1,6 @@
 # Training in Advanced Low-Energy Nuclear Theory
-## Course 11. Learning from Data: Bayesian Methods and Machine Learning
-## University of York, UK, June 10-28, 2019
+### Course 11. Learning from Data: Bayesian Methods and Machine Learning
+University of York, UK, June 10-28, 2019
 
 ## Introduction
 In recent years there has been an explosion of interest in the use of Bayesian methods in nuclear physics. These methods are being used to quantify the uncertainties in theoretical work on topics ranging from the NN force to high-energy heavy-ion collisions, develop more reliable extrapolants of nuclear-energy-density functionals towards the dripline, predict the impact that future NICER observations may have on the equation of state of neutron matter, and determine whether or not nucleon resonances are present in experimental data. Meanwhile machine learning is gaining increased currency as a method for identifying interesting signals in both experiments and simulations.
@@ -49,6 +49,15 @@ This [TALENT](https://fribtheoryalliance.org/TALENT/) school is made possible wi
 There are two lectures every morning. Each lecture is approximately 2x40 min with a small break in the middle. There is a longer coffee break between the two morning lectures. The afternoons will be devoted to exercise sessions in the computer lab with extra support from the two facilitators. Students will work on a mix of discussion questions, computer exercises and mini projects. Every day ends with a wrap-up discussion session.
 
 The organization of a typical course day is as follows:
+
+Time | Activity
+------------ | -------------
+9.00 - 10.30 | Lecture 1
+10.30 - 11.00 | Coffee break
+11.00 - 12.30 | Lecture 2
+12.30 - 14.00 | Lunch
+14.00 - 17.00 | Exercise session with afternoon break
+17.00 - 18.00 | Wrap-up
 
 This page was automatically created with GitHub’s automatic Markdown rendering. More on the Markdown syntax on this [GitHub guide](https://help.github.com/en/articles/basic-writing-and-formatting-syntax) or [GitHub help](https://help.github.com/en/articles/basic-writing-and-formatting-syntax).
 
