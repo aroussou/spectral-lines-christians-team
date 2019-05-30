@@ -18,7 +18,7 @@ Upon completion of this course students should be able to:
 
 ## Course contents
 Course material is available at the following public github repository
-[https://github.com/NuclearTalent/Bayes2019]
+[https://github.com/NuclearTalent/Bayes2019](https://github.com/NuclearTalent/Bayes2019)
 
 The following topics will be covered:
 - [Basics of Bayesian statistics](topics/basics-of-bayesian-statistics/)
