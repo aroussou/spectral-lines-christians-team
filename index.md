@@ -49,14 +49,6 @@ This [TALENT](https://fribtheoryalliance.org/TALENT/) school is made possible wi
 There are two lectures every morning. Each lecture is approximately 2x40 min with a small break in the middle. There is a longer coffee break between the two morning lectures. The afternoons will be devoted to exercise sessions in the computer lab with extra support from the two facilitators. Students will work on a mix of discussion questions, computer exercises and mini projects. Every day ends with a wrap-up discussion session.
 
 The organization of a typical course day is as follows:
-Time | Activity
------------- | -------------
-9.00 - 10.30 | Lecture 1
-10.30 - 11.00 | Coffee break
-11.00 - 12.30 | Lecture 2
-12.30 - 14.00 | Lunch
-14.00 - 17.00 | Exercise session with afternoon break
-17.00 - 18.00 | Wrap-up
 
 This page was automatically created with GitHub’s automatic Markdown rendering. More on the Markdown syntax on this [GitHub guide](https://help.github.com/en/articles/basic-writing-and-formatting-syntax) or [GitHub help](https://help.github.com/en/articles/basic-writing-and-formatting-syntax).
 
