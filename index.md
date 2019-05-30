@@ -19,7 +19,8 @@ Upon completion of this course students should be able to:
 ## Course contents
 Course material is available at the following public github repository: https://github.com/NuclearTalent/Bayes2019
 
-- [Basics of Bayesian statistics](https://github.com/physics-chalmers/spectral-lines-christians-team/blob/master/README.md)
+The following topics will be covered:
+- [Basics of Bayesian statistics](topics/basics-of-bayesian-statistics/)
 - Bayesian parameter estimation
 - Why Bayes is better
 - MCMC sampling
@@ -28,7 +29,6 @@ Course material is available at the following public github repository: https://
 - Special topic: Application of Bayesian methods in nuclear physics 
 - Gaussian processes
 - Special topic: Bayesian methods and machine learning
-
 
 ## Teachers and local organization
 
@@ -43,6 +43,7 @@ Course material is available at the following public github repository: https://
 
 ### Local organizer
 - Alessandro Pastore, University of York, UK
+
 This [TALENT](https://fribtheoryalliance.org/TALENT/) school is made possible with generous funding from the Science and Technology Facilities Council [STFC](https://stfc.ukri.org/) in the UK.
 
 ## Daily schedule
