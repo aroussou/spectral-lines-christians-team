@@ -21,14 +21,14 @@ Course material is available at the following public github repository: https://
 
 The following topics will be covered:
 - [Basics of Bayesian statistics](topics/basics-of-bayesian-statistics/)
-- Bayesian parameter estimation
-- Why Bayes is better
-- MCMC sampling
-- Assigning probabilities
-- Model selection
-- Special topic: Application of Bayesian methods in nuclear physics 
-- Gaussian processes
-- Special topic: Bayesian methods and machine learning
+- [Bayesian parameter estimation](topics/bayesian-parameter-estimation/)
+- [Why Bayes is better](topics/why-bayes-is-better/)
+- [MCMC sampling](topics/mcmc-sampling/)
+- [Assigning probabilities](topics/assigning-probabilities/)
+- [Model selection](topics/model-selection/)
+- [Special topic: Application of Bayesian methods in nuclear physics](topics/application-of-bayesian-methods-in-nuclear-physics/)
+- [Gaussian processes](topics/gaussian-processes/)
+- [Special topic: Bayesian methods and machine learning](topics/bayesian-methods-and-machine-learning/)
 
 ## Teachers and local organization
 
