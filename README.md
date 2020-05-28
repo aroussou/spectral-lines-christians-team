@@ -1,19 +1,18 @@
 # Test README file for viewing in github pages
 Author: Christian Forssen (christian.forssen@chalmers.se)
 
-This repository contains lectures and accompanying material presented
-by Christian Forssen (Chalmers, Sweden) at the 2018 Euroschool on
-Exotic Beams, Leuven, Belgium.
+This repository contains the starter code for Problem Set 1 in
+TIF285 Learning from data, Chalmers
+by Christian Forssen (Dept. of Physics, Chalmers, Sweden)
 
 
 ## Code overview
 
-``Forssen_lecture1.ipynb`` ......... Lecture 1 on "Precitive theories and Bayesian statistics" as a jupyter ipython notebook
+``TIF285...ipynb`` .............. Jupyter notebook
 
-``Forssen_lecture2.ipynb`` ......... Lecture 2 on "Ab initio nuclear theory" as a jupyter ipython notebook
+``README.md`` .......... This file
 
-``environment.yml`` ... Package dependencies
+## Hand in:
 
-``LICENCE.txt`` .............. MIT License
-
-``README.md`` .......... This.
+Name:
+Personal id:
